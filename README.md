@@ -19,19 +19,31 @@ Before you begin, ensure you have the following installed: Node.js
 
   **2.Set Up the Backend:**
 
-    Navigate to the backend directory: cd backend
+   Navigate to the backend directory: 
+   
+    cd backend
 
-    Install the necessary npm dependencies: npm install
+   Install the necessary npm dependencies: 
+   
+    npm install
 
-    Start the backend server: npm start
+   Start the backend server: 
+   
+    npm start
 
   **3.Set Up the Frontend:**
 
-    Open a new terminal and navigate to the frontend directory: cd frontend
+   Open a new terminal and navigate to the frontend directory: 
+   
+    cd frontend
 
-    Install the required npm dependencies: npm install
+   Install the required npm dependencies: 
+   
+    npm install
 
-    Launch the frontend application: npm start
+   Launch the frontend application: 
+   
+    npm start
 
 **Usage:**
 
