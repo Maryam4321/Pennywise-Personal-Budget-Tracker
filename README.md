@@ -13,12 +13,12 @@ Node.js
 
 **Installation:**
 
-  **1.Clone the Repository:**
+  **1. Clone the Repository:**
   
   Begin by cloning the repository to your local machine:
   git clone [URL]
   
-  **2.Set Up the Backend:**
+  **2. Set Up the Backend:**
   
   Navigate to the backend directory:
   cd backend
@@ -29,7 +29,7 @@ Node.js
   Start the backend server:
   npm start
 
-  **3.Set Up the Frontend:**
+  **3. Set Up the Frontend:**
   
   Open a new terminal and navigate to the frontend directory:
   cd frontend
