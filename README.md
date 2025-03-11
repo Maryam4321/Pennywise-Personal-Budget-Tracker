@@ -13,7 +13,9 @@ Before you begin, ensure you have the following installed: Node.js
 
   **1.Clone the Repository:**
 
-    Begin by cloning the repository to your local machine: git clone [URL]
+  Begin by cloning the repository to your local machine:
+  
+    git clone [URL]
 
   **2.Set Up the Backend:**
 
