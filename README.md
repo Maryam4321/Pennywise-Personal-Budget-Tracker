@@ -1,7 +1,6 @@
 # Pennywise: Personal-Budget-Tracker
 Welcome to the repository for PennyWise, a streamlined personal budget tracker designed to help users manage their finances effectively and efficiently. This application allows users to monitor their income and expenses, categorize transactions, and gain valuable insights into their financial habits.
 
-
 **Getting Started:**
 
 These instructions will guide you through the setup process necessary to get PennyWise running on your local machine for development and testing purposes.
@@ -10,15 +9,13 @@ These instructions will guide you through the setup process necessary to get Pen
 
 Before you begin, ensure you have the following installed: Node.js
 
-
 **Installation:**
-
+  
   **1.Clone the Repository:**
 
   Begin by cloning the repository to your local machine:
   
     git clone [URL]
-
   
   **2.Set Up the Backend:**
 
@@ -33,7 +30,6 @@ Before you begin, ensure you have the following installed: Node.js
    Start the backend server: 
    
     npm start
-
   
   **3.Set Up the Frontend:**
 
@@ -49,11 +45,9 @@ Before you begin, ensure you have the following installed: Node.js
    
     npm start
 
-
 **Usage:**
 
 Once both the backend and frontend are running, you can access the application through your web browser at http://localhost:3000. Use the application to track your personal budget, categorize expenses, and view financial summaries.
-
 
 **Contributing:**
 
