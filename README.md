@@ -79,9 +79,13 @@ Launch the frontend application:
 </p>
 
 <p align="center">
-  <!-- Email -->
+  <!-- Gmail -->
   <a href="mailto:maryamkhaliddev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-maryamkhaliddev-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/maryam-khalid-561811194" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Maryam%20Khalid-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <!-- Website -->
   <a href="https://talhafakhar.com/" target="_blank">
